@@ -1,6 +1,4 @@
 ## Hi there 👋
-<!--
-*```markdown
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
@@ -37,4 +35,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-martinsimtaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinsimtaya)](https://www.linkedin.com/in/martinsimtaya)
 [![GitHub Badge](https://img.shields.io/badge/-geekobueno-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/geekobueno)](https://github.com/geekobueno)
 [![Email Badge](https://img.shields.io/badge/-martinsimtaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinsimtaya@gmail.com)](mailto:martinsimtaya@gmail.com)
-```
