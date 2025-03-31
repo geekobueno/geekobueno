@@ -23,6 +23,7 @@
      <a href="https://vite.dev/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vitejs" width="40" height="40"/> </a>
       <a href="https://preactjs.com/" target="_blank"> <img src="https://preactjs.com/branding/symbol.svg" alt="preact" width="40" height="40"/> </a>
           <a href="https://astro.build/" target="_blank"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40"/> </a>
+           <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="tailwind-css" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
