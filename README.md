@@ -22,6 +22,7 @@
     <a href="https://nestjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40"/> </a>
      <a href="https://vite.dev/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vitejs" width="40" height="40"/> </a>
       <a href="https://preactjs.com/" target="_blank"> <img src="https://preactjs.com/branding/symbol.svg" alt="preact" width="40" height="40"/> </a>
+          <a href="https://astro.build/" target="_blank"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
