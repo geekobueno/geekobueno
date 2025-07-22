@@ -38,8 +38,8 @@
 
 <h2 align="left">:chart_with_upwards_trend: GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekobueno&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekobueno&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geekobueno&show_icons=true&theme=radical&cache_seconds=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekobueno&layout=compact&theme=radical&cache_seconds=1" alt="Top Languages" />
 </p>
 
 <h2 align="left">:heart: Let's get connected:</h2>
